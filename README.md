@@ -16,3 +16,8 @@ To contribute to this project, please follow the guidelines outlined in our [Con
 ## Code of Conduct
 
 Please make sure to read and adhere to our [Code of Conduct](https://github.com/aarushiksk/Noob-to-Ninja-ML/blob/main/CODE_OF_CONDUCT.md) before contributing. We strive to maintain a friendly and inclusive community for everyone.
+
+## Our Contributors
+<a href="https://github.com/aarushiksk/Noob-to-Ninja-ML/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=aarushiksk/Noob-to-Ninja-ML" />
+</a>
