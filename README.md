@@ -1,3 +1,6 @@
+[![An image of @susiesunflower's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/susiesunflower)](https://holopin.io/@susiesunflower)
+
+
 ## What is Hacktoberfest?
 
 [Hacktoberfest](https://hacktoberfest.digitalocean.com/) is more than just an event; it's a journey into the heart of the open-source community. This annual celebration invites developers to enhance their skills, collaborate with others, and make meaningful contributions to the projects they care about.At its core, Hacktoberfest is about much more than writing lines of code. It's a movement that fosters an ethos of learning and sharing. It invites you to dive into the intricacies of software development, collaborate with diverse teams, and learn from the collective wisdom of the open-source community. This annual celebration is a tapestry of ideas interwoven with the threads of collaboration, mentorship, and personal growth.
