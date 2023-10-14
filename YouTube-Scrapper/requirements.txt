@@ -1,0 +1,15 @@
+selenium.webdriver.chrome.service
+selenium.webdriver.common.by
+webdriver_manager.chrome
+webdriver-manager
+flask
+selenium
+flask_cors
+pandas
+requests
+pymongo
+logging
+time
+json
+sys
+os
