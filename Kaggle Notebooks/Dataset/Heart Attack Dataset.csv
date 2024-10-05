@@ -1,0 +1,1001 @@
+Gender,Age,Blood Pressure (mmHg),Cholesterol (mg/dL),Has Diabetes,Smoking Status,Chest Pain Type,Treatment
+Male,70,181,262,No,Never,Typical Angina,Lifestyle Changes
+Female,55,103,253,Yes,Never,Atypical Angina,Angioplasty
+Male,42,95,295,Yes,Current,Typical Angina,Angioplasty
+Male,84,106,270,No,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Male,86,187,296,Yes,Current,Non-anginal Pain,Medication
+Female,66,125,271,Yes,Former,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Male,33,181,262,Yes,Current,Asymptomatic,Lifestyle Changes
+Male,84,182,288,No,Current,Non-anginal Pain,Lifestyle Changes
+Male,73,115,286,Yes,Never,Asymptomatic,Angioplasty
+Female,63,174,254,Yes,Former,Non-anginal Pain,Angioplasty
+Male,88,154,150,No,Former,Atypical Angina,Medication
+Male,69,133,236,No,Former,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Male,78,165,171,No,Former,Non-anginal Pain,Lifestyle Changes
+Male,89,153,215,Yes,Current,Atypical Angina,Angioplasty
+Female,71,110,182,Yes,Former,Typical Angina,Medication
+Male,30,107,242,Yes,Current,Typical Angina,Lifestyle Changes
+Female,77,112,179,No,Current,Non-anginal Pain,Angioplasty
+Female,86,91,254,Yes,Current,Typical Angina,Lifestyle Changes
+Female,76,101,227,Yes,Former,Non-anginal Pain,Medication
+Male,74,125,259,No,Never,Typical Angina,Medication
+Female,45,141,273,No,Never,Asymptomatic,Lifestyle Changes
+Male,88,124,212,No,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,34,109,222,No,Never,Asymptomatic,Lifestyle Changes
+Female,77,143,285,No,Never,Non-anginal Pain,Angioplasty
+Female,45,153,266,Yes,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Female,89,112,209,No,Current,Non-anginal Pain,Angioplasty
+Female,84,197,273,Yes,Former,Typical Angina,Lifestyle Changes
+Female,61,149,157,Yes,Former,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,52,104,191,No,Never,Non-anginal Pain,Angioplasty
+Female,49,159,268,No,Current,Asymptomatic,Lifestyle Changes
+Male,55,193,161,No,Former,Typical Angina,Lifestyle Changes
+Male,81,135,274,Yes,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,39,190,248,No,Former,Typical Angina,Lifestyle Changes
+Female,32,154,205,No,Former,Atypical Angina,Medication
+Female,71,129,280,No,Former,Asymptomatic,Angioplasty
+Male,46,126,295,No,Former,Atypical Angina,Angioplasty
+Female,88,129,270,No,Never,Atypical Angina,Lifestyle Changes
+Male,52,134,255,Yes,Current,Atypical Angina,Lifestyle Changes
+Male,76,125,188,Yes,Current,Atypical Angina,Medication
+Male,46,193,246,Yes,Former,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Male,70,172,266,No,Current,Atypical Angina,Lifestyle Changes
+Male,49,125,297,No,Current,Typical Angina,Lifestyle Changes
+Female,39,182,181,No,Current,Atypical Angina,Lifestyle Changes
+Female,67,179,268,Yes,Former,Non-anginal Pain,Lifestyle Changes
+Female,39,111,249,No,Former,Asymptomatic,Angioplasty
+Female,71,192,209,No,Current,Atypical Angina,Lifestyle Changes
+Female,33,107,258,No,Current,Non-anginal Pain,Angioplasty
+Male,86,106,235,Yes,Former,Atypical Angina,Lifestyle Changes
+Female,61,91,181,No,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,41,181,191,Yes,Current,Atypical Angina,Medication
+Male,35,180,201,No,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Female,41,181,297,Yes,Current,Asymptomatic,Lifestyle Changes
+Male,55,166,204,Yes,Never,Non-anginal Pain,Lifestyle Changes
+Female,66,119,198,Yes,Never,Asymptomatic,Lifestyle Changes
+Male,35,139,200,No,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,80,179,186,No,Former,Typical Angina,Lifestyle Changes
+Female,85,116,217,Yes,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Male,89,191,242,Yes,Never,Asymptomatic,Angioplasty
+Male,76,165,273,No,Never,Non-anginal Pain,Medication
+Male,61,120,176,No,Current,Atypical Angina,Medication
+Male,39,141,233,Yes,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Male,57,135,216,No,Current,Non-anginal Pain,Angioplasty
+Male,79,158,210,No,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Male,81,187,270,No,Never,Atypical Angina,Angioplasty
+Male,62,138,172,No,Former,Non-anginal Pain,Lifestyle Changes
+Female,48,198,165,Yes,Current,Non-anginal Pain,Angioplasty
+Female,80,162,190,No,Never,Atypical Angina,Angioplasty
+Male,84,142,295,No,Current,Non-anginal Pain,Angioplasty
+Female,69,169,183,Yes,Current,Atypical Angina,Medication
+Female,36,178,156,Yes,Former,Asymptomatic,Angioplasty
+Female,36,196,222,No,Former,Asymptomatic,Lifestyle Changes
+Female,42,164,229,No,Former,Asymptomatic,Lifestyle Changes
+Male,42,161,294,No,Former,Non-anginal Pain,Lifestyle Changes
+Female,64,168,195,No,Former,Typical Angina,Angioplasty
+Male,80,113,216,Yes,Former,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,55,185,220,Yes,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Female,36,159,243,Yes,Former,Typical Angina,Lifestyle Changes
+Female,62,148,265,No,Never,Atypical Angina,Medication
+Male,45,171,150,No,Current,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,55,176,283,No,Former,Non-anginal Pain,Angioplasty
+Male,60,183,248,No,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Female,64,196,225,Yes,Current,Atypical Angina,Lifestyle Changes
+Male,50,147,253,Yes,Never,Asymptomatic,Medication
+Female,74,166,234,No,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Male,61,129,166,Yes,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Male,72,107,199,No,Former,Typical Angina,Lifestyle Changes
+Female,65,143,227,No,Current,Typical Angina,Medication
+Male,40,153,274,Yes,Current,Atypical Angina,Medication
+Female,41,97,185,No,Former,Atypical Angina,Lifestyle Changes
+Female,55,119,259,No,Former,Non-anginal Pain,Angioplasty
+Female,46,161,233,Yes,Former,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,70,175,190,No,Former,Atypical Angina,Angioplasty
+Female,71,104,201,No,Current,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,39,110,273,Yes,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,66,161,203,No,Never,Typical Angina,Angioplasty
+Female,30,197,271,Yes,Never,Asymptomatic,Lifestyle Changes
+Female,79,196,158,No,Current,Non-anginal Pain,Lifestyle Changes
+Female,67,141,255,Yes,Never,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,51,153,161,Yes,Current,Asymptomatic,Lifestyle Changes
+Male,51,120,280,Yes,Never,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Male,89,105,167,No,Former,Typical Angina,Lifestyle Changes
+Female,86,111,164,Yes,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Female,32,145,256,Yes,Former,Typical Angina,Lifestyle Changes
+Female,76,98,259,Yes,Former,Typical Angina,Medication
+Female,40,149,156,Yes,Former,Non-anginal Pain,Angioplasty
+Female,48,139,235,Yes,Former,Asymptomatic,Medication
+Female,78,182,166,No,Never,Asymptomatic,Angioplasty
+Female,81,154,178,No,Current,Atypical Angina,Angioplasty
+Female,88,128,188,No,Former,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Male,49,195,172,No,Never,Non-anginal Pain,Angioplasty
+Female,46,146,181,No,Former,Typical Angina,Medication
+Male,85,167,287,No,Never,Typical Angina,Medication
+Female,82,196,225,No,Never,Atypical Angina,Lifestyle Changes
+Female,75,143,246,Yes,Never,Typical Angina,Medication
+Male,46,168,248,No,Current,Non-anginal Pain,Lifestyle Changes
+Female,76,101,254,Yes,Never,Non-anginal Pain,Angioplasty
+Male,48,110,165,Yes,Never,Atypical Angina,Medication
+Female,34,141,286,No,Current,Typical Angina,Angioplasty
+Female,33,196,282,Yes,Current,Non-anginal Pain,Medication
+Male,71,163,202,Yes,Never,Typical Angina,Medication
+Female,35,144,258,Yes,Current,Typical Angina,Lifestyle Changes
+Male,31,156,233,Yes,Former,Typical Angina,Angioplasty
+Female,62,122,220,No,Former,Atypical Angina,Medication
+Male,73,168,178,No,Current,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Male,45,175,220,No,Current,Non-anginal Pain,Angioplasty
+Female,40,107,179,No,Never,Typical Angina,Angioplasty
+Female,51,152,230,No,Current,Non-anginal Pain,Angioplasty
+Male,74,136,229,No,Never,Typical Angina,Lifestyle Changes
+Female,78,192,175,No,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Female,45,151,223,No,Current,Non-anginal Pain,Angioplasty
+Female,86,150,294,No,Never,Typical Angina,Medication
+Male,43,119,156,No,Never,Typical Angina,Medication
+Male,71,176,198,Yes,Former,Non-anginal Pain,Lifestyle Changes
+Male,37,168,193,No,Current,Asymptomatic,Medication
+Male,67,138,202,Yes,Former,Atypical Angina,Angioplasty
+Male,37,110,249,Yes,Never,Asymptomatic,Medication
+Male,80,91,220,Yes,Never,Asymptomatic,Angioplasty
+Male,45,182,170,Yes,Current,Typical Angina,Medication
+Male,38,175,248,No,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Male,80,114,272,Yes,Current,Asymptomatic,Lifestyle Changes
+Female,86,190,207,No,Former,Typical Angina,Lifestyle Changes
+Male,49,119,292,No,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Female,54,120,248,Yes,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Female,78,127,274,No,Never,Typical Angina,Lifestyle Changes
+Female,65,125,219,Yes,Never,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Male,77,186,270,Yes,Current,Typical Angina,Angioplasty
+Male,79,178,292,No,Never,Atypical Angina,Medication
+Male,84,184,249,No,Never,Asymptomatic,Lifestyle Changes
+Male,82,137,270,Yes,Never,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,86,96,217,No,Current,Non-anginal Pain,Angioplasty
+Male,79,165,230,No,Never,Asymptomatic,Lifestyle Changes
+Male,88,97,195,No,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Male,50,138,184,Yes,Never,Atypical Angina,Lifestyle Changes
+Male,80,178,274,Yes,Former,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Male,34,116,251,No,Never,Non-anginal Pain,Lifestyle Changes
+Female,63,138,196,No,Never,Atypical Angina,Angioplasty
+Male,80,156,239,No,Current,Typical Angina,Angioplasty
+Female,50,188,248,No,Current,Non-anginal Pain,Medication
+Male,64,95,272,No,Never,Non-anginal Pain,Lifestyle Changes
+Female,73,120,229,Yes,Former,Atypical Angina,Medication
+Male,44,197,256,No,Never,Typical Angina,Lifestyle Changes
+Male,88,154,299,Yes,Never,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,59,150,199,No,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Female,51,138,261,Yes,Current,Non-anginal Pain,Medication
+Female,43,176,271,No,Never,Non-anginal Pain,Lifestyle Changes
+Male,55,111,279,Yes,Current,Typical Angina,Medication
+Female,73,139,259,No,Current,Atypical Angina,Angioplasty
+Male,86,101,175,Yes,Former,Atypical Angina,Medication
+Male,77,120,160,Yes,Former,Typical Angina,Medication
+Female,82,100,276,Yes,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Female,82,195,188,Yes,Never,Atypical Angina,Medication
+Male,76,103,278,Yes,Current,Non-anginal Pain,Lifestyle Changes
+Male,85,143,203,Yes,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Female,76,139,236,No,Never,Asymptomatic,Medication
+Female,41,169,249,Yes,Former,Atypical Angina,Angioplasty
+Female,86,97,246,No,Never,Asymptomatic,Medication
+Male,81,173,225,No,Never,Asymptomatic,Medication
+Male,58,144,203,No,Current,Atypical Angina,Medication
+Male,77,138,191,No,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Male,82,199,248,No,Never,Asymptomatic,Lifestyle Changes
+Male,53,147,201,Yes,Never,Non-anginal Pain,Angioplasty
+Male,82,154,214,Yes,Former,Typical Angina,Medication
+Female,72,151,298,Yes,Current,Asymptomatic,Lifestyle Changes
+Male,37,129,222,No,Former,Asymptomatic,Lifestyle Changes
+Male,89,124,175,Yes,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Male,82,190,271,Yes,Never,Asymptomatic,Angioplasty
+Female,89,132,175,Yes,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Male,38,146,160,Yes,Current,Typical Angina,Lifestyle Changes
+Male,83,182,268,Yes,Never,Typical Angina,Lifestyle Changes
+Female,41,160,252,No,Never,Typical Angina,Lifestyle Changes
+Male,34,196,271,Yes,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Male,40,126,288,No,Never,Atypical Angina,Angioplasty
+Male,77,159,235,No,Current,Typical Angina,Medication
+Male,62,158,218,No,Former,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Male,37,198,199,No,Current,Atypical Angina,Lifestyle Changes
+Female,38,186,272,No,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Female,52,180,278,Yes,Never,Asymptomatic,Lifestyle Changes
+Female,77,143,241,Yes,Former,Asymptomatic,Medication
+Male,42,175,288,Yes,Former,Typical Angina,Medication
+Male,63,144,176,No,Never,Non-anginal Pain,Angioplasty
+Male,59,194,237,Yes,Never,Atypical Angina,Lifestyle Changes
+Female,45,175,154,Yes,Current,Typical Angina,Angioplasty
+Male,66,134,279,No,Current,Non-anginal Pain,Angioplasty
+Male,86,103,227,No,Never,Non-anginal Pain,Medication
+Female,45,197,283,No,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Male,39,150,276,No,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,71,145,270,Yes,Former,Atypical Angina,Angioplasty
+Female,41,95,261,No,Former,Asymptomatic,Medication
+Female,48,146,167,No,Former,Asymptomatic,Lifestyle Changes
+Male,46,128,165,Yes,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Male,64,120,191,Yes,Current,Non-anginal Pain,Angioplasty
+Male,31,173,203,No,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Male,64,151,227,Yes,Former,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Male,53,164,186,No,Former,Non-anginal Pain,Lifestyle Changes
+Male,62,169,215,No,Never,Asymptomatic,Medication
+Male,75,137,182,Yes,Never,Asymptomatic,Lifestyle Changes
+Female,66,105,259,Yes,Former,Non-anginal Pain,Medication
+Male,54,183,248,No,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,80,188,261,No,Former,Non-anginal Pain,Angioplasty
+Male,56,168,254,No,Never,Non-anginal Pain,Lifestyle Changes
+Male,89,194,173,Yes,Former,Asymptomatic,Medication
+Male,34,120,154,No,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Female,46,153,272,No,Current,Atypical Angina,Medication
+Female,86,180,176,No,Never,Non-anginal Pain,Medication
+Female,53,163,165,No,Current,Atypical Angina,Medication
+Female,86,192,299,No,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Male,82,199,205,Yes,Former,Asymptomatic,Angioplasty
+Female,39,113,207,No,Never,Typical Angina,Angioplasty
+Male,60,99,251,No,Former,Typical Angina,Angioplasty
+Male,86,127,183,No,Never,Asymptomatic,Medication
+Female,37,149,282,No,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Female,72,114,230,Yes,Never,Asymptomatic,Medication
+Female,39,122,202,Yes,Former,Atypical Angina,Angioplasty
+Female,56,106,193,Yes,Former,Typical Angina,Angioplasty
+Female,79,96,155,No,Former,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Female,87,125,232,No,Never,Non-anginal Pain,Medication
+Female,89,139,232,Yes,Current,Asymptomatic,Lifestyle Changes
+Female,45,103,246,Yes,Current,Typical Angina,Lifestyle Changes
+Male,78,116,258,Yes,Never,Asymptomatic,Angioplasty
+Female,85,139,188,No,Former,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Female,84,180,230,No,Current,Typical Angina,Medication
+Male,86,110,181,Yes,Former,Atypical Angina,Medication
+Female,33,105,161,Yes,Never,Atypical Angina,Angioplasty
+Male,58,137,179,Yes,Former,Typical Angina,Angioplasty
+Male,31,94,152,No,Current,Asymptomatic,Medication
+Female,83,97,163,No,Current,Typical Angina,Medication
+Male,74,191,176,No,Former,Atypical Angina,Angioplasty
+Male,64,144,157,Yes,Never,Non-anginal Pain,Medication
+Male,33,158,294,Yes,Former,Asymptomatic,Lifestyle Changes
+Male,51,197,225,No,Never,Atypical Angina,Angioplasty
+Female,60,149,185,Yes,Former,Asymptomatic,Medication
+Male,36,105,237,No,Current,Typical Angina,Angioplasty
+Female,58,170,235,Yes,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Male,72,105,248,Yes,Never,Typical Angina,Angioplasty
+Male,83,195,245,Yes,Never,Non-anginal Pain,Angioplasty
+Male,77,139,282,Yes,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Male,36,187,185,No,Former,Asymptomatic,Lifestyle Changes
+Female,75,135,244,Yes,Current,Typical Angina,Medication
+Female,40,163,198,No,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Male,82,146,267,No,Former,Non-anginal Pain,Angioplasty
+Male,78,188,179,No,Current,Asymptomatic,Medication
+Female,71,149,214,Yes,Never,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Male,55,140,199,No,Never,Non-anginal Pain,Medication
+Male,34,99,256,No,Current,Asymptomatic,Medication
+Male,81,100,280,No,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,41,184,251,Yes,Current,Typical Angina,Medication
+Female,40,184,193,Yes,Never,Atypical Angina,Lifestyle Changes
+Female,37,110,195,No,Current,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Male,77,95,278,Yes,Never,Asymptomatic,Lifestyle Changes
+Male,58,159,274,No,Current,Non-anginal Pain,Angioplasty
+Female,72,146,157,No,Never,Non-anginal Pain,Medication
+Female,34,181,176,Yes,Never,Non-anginal Pain,Angioplasty
+Female,53,138,220,No,Former,Typical Angina,Angioplasty
+Female,70,152,279,Yes,Current,Asymptomatic,Medication
+Male,83,164,160,Yes,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,69,138,274,No,Never,Asymptomatic,Medication
+Male,49,130,295,Yes,Never,Atypical Angina,Angioplasty
+Female,41,188,202,Yes,Never,Typical Angina,Angioplasty
+Male,47,123,285,No,Former,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,78,141,273,No,Former,Atypical Angina,Medication
+Female,35,195,248,Yes,Never,Atypical Angina,Angioplasty
+Female,31,111,180,Yes,Current,Atypical Angina,Lifestyle Changes
+Female,51,134,256,No,Current,Asymptomatic,Angioplasty
+Male,37,181,288,Yes,Former,Atypical Angina,Angioplasty
+Female,72,191,198,Yes,Former,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Male,42,111,230,Yes,Never,Typical Angina,Lifestyle Changes
+Male,63,136,259,Yes,Current,Non-anginal Pain,Angioplasty
+Male,54,107,241,Yes,Never,Atypical Angina,Angioplasty
+Male,32,198,155,Yes,Former,Asymptomatic,Lifestyle Changes
+Female,65,183,284,Yes,Current,Asymptomatic,Medication
+Male,80,172,244,No,Current,Asymptomatic,Medication
+Male,49,146,219,No,Former,Non-anginal Pain,Angioplasty
+Male,71,98,239,No,Never,Typical Angina,Angioplasty
+Female,86,146,241,No,Never,Asymptomatic,Medication
+Female,32,172,297,No,Current,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,82,142,176,Yes,Former,Non-anginal Pain,Lifestyle Changes
+Female,57,115,295,Yes,Current,Atypical Angina,Lifestyle Changes
+Male,82,138,236,Yes,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Male,33,180,206,Yes,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,65,183,214,No,Former,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Male,40,107,233,Yes,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Male,73,197,289,Yes,Former,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Male,71,183,183,No,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Female,42,117,230,Yes,Never,Non-anginal Pain,Lifestyle Changes
+Female,70,106,220,Yes,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Male,55,94,293,No,Current,Typical Angina,Medication
+Female,83,141,283,Yes,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,46,187,172,Yes,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,79,188,230,Yes,Current,Atypical Angina,Lifestyle Changes
+Female,80,174,255,Yes,Current,Asymptomatic,Lifestyle Changes
+Female,45,140,173,Yes,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Male,46,173,217,No,Current,Atypical Angina,Lifestyle Changes
+Female,81,189,180,No,Never,Non-anginal Pain,Angioplasty
+Male,45,197,240,No,Never,Atypical Angina,Lifestyle Changes
+Male,37,170,267,No,Current,Atypical Angina,Lifestyle Changes
+Female,78,141,160,No,Former,Asymptomatic,Lifestyle Changes
+Male,43,113,163,No,Former,Typical Angina,Lifestyle Changes
+Male,61,146,255,Yes,Never,Asymptomatic,Medication
+Male,77,164,256,No,Current,Atypical Angina,Medication
+Female,59,197,160,No,Current,Atypical Angina,Medication
+Female,40,164,153,Yes,Never,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Male,32,176,274,Yes,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Female,81,168,185,No,Former,Non-anginal Pain,Angioplasty
+Female,88,127,178,Yes,Former,Atypical Angina,Medication
+Female,60,97,193,No,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Female,37,140,150,Yes,Former,Atypical Angina,Lifestyle Changes
+Male,78,94,152,No,Never,Typical Angina,Lifestyle Changes
+Male,67,166,193,Yes,Never,Typical Angina,Medication
+Female,49,117,203,Yes,Current,Atypical Angina,Angioplasty
+Female,71,157,159,No,Former,Typical Angina,Angioplasty
+Male,53,188,213,No,Never,Asymptomatic,Lifestyle Changes
+Male,69,110,179,No,Former,Asymptomatic,Angioplasty
+Female,64,95,285,No,Former,Typical Angina,Medication
+Male,58,106,293,No,Current,Atypical Angina,Lifestyle Changes
+Female,53,197,297,Yes,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,48,190,156,No,Current,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Male,44,116,165,No,Never,Non-anginal Pain,Angioplasty
+Male,35,150,239,Yes,Former,Asymptomatic,Lifestyle Changes
+Female,70,180,279,Yes,Never,Non-anginal Pain,Lifestyle Changes
+Female,54,189,202,No,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Male,74,120,274,Yes,Never,Atypical Angina,Lifestyle Changes
+Female,50,167,299,Yes,Former,Non-anginal Pain,Lifestyle Changes
+Male,49,149,201,No,Former,Typical Angina,Lifestyle Changes
+Female,35,190,152,Yes,Former,Non-anginal Pain,Angioplasty
+Male,46,173,278,Yes,Former,Non-anginal Pain,Lifestyle Changes
+Male,77,183,195,No,Former,Asymptomatic,Medication
+Male,40,131,215,No,Former,Asymptomatic,Angioplasty
+Female,77,181,286,Yes,Former,Non-anginal Pain,Lifestyle Changes
+Female,89,174,238,Yes,Former,Non-anginal Pain,Lifestyle Changes
+Male,55,197,251,No,Former,Atypical Angina,Medication
+Female,80,141,297,Yes,Never,Asymptomatic,Angioplasty
+Male,84,130,258,Yes,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Male,33,145,167,Yes,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,55,158,171,No,Current,Typical Angina,Angioplasty
+Female,88,151,252,Yes,Former,Asymptomatic,Lifestyle Changes
+Male,57,164,181,Yes,Former,Asymptomatic,Lifestyle Changes
+Female,30,141,236,No,Never,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,74,109,216,Yes,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Male,87,142,179,Yes,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Male,36,160,252,No,Never,Typical Angina,Medication
+Female,82,198,235,No,Never,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Male,60,149,248,No,Current,Non-anginal Pain,Medication
+Male,67,123,252,No,Never,Atypical Angina,Angioplasty
+Female,32,106,249,Yes,Former,Atypical Angina,Lifestyle Changes
+Male,34,198,258,Yes,Current,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Male,88,159,182,No,Current,Typical Angina,Lifestyle Changes
+Female,43,163,196,No,Former,Asymptomatic,Lifestyle Changes
+Female,80,195,287,Yes,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Male,37,107,234,No,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Male,71,105,244,Yes,Current,Typical Angina,Angioplasty
+Female,89,121,230,No,Former,Asymptomatic,Medication
+Female,71,156,227,Yes,Former,Asymptomatic,Medication
+Female,39,152,196,No,Never,Atypical Angina,Lifestyle Changes
+Female,61,147,269,No,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Male,40,178,253,Yes,Never,Asymptomatic,Angioplasty
+Female,30,110,283,No,Never,Atypical Angina,Angioplasty
+Female,34,195,219,Yes,Former,Typical Angina,Angioplasty
+Male,48,106,204,Yes,Current,Asymptomatic,Angioplasty
+Female,66,180,183,Yes,Current,Atypical Angina,Angioplasty
+Male,64,181,299,Yes,Current,Non-anginal Pain,Medication
+Female,75,97,156,Yes,Former,Asymptomatic,Medication
+Female,67,118,253,No,Former,Asymptomatic,Medication
+Female,69,173,159,No,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Male,58,160,294,Yes,Former,Typical Angina,Lifestyle Changes
+Male,36,116,295,No,Former,Non-anginal Pain,Angioplasty
+Female,63,96,254,Yes,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Male,41,97,213,No,Never,Typical Angina,Angioplasty
+Male,81,141,283,No,Current,Atypical Angina,Medication
+Male,77,125,245,No,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Male,58,166,248,No,Former,Atypical Angina,Medication
+Male,41,102,225,Yes,Never,Asymptomatic,Angioplasty
+Male,62,137,294,Yes,Current,Non-anginal Pain,Angioplasty
+Female,41,107,262,No,Current,Typical Angina,Lifestyle Changes
+Female,73,141,237,No,Never,Atypical Angina,Angioplasty
+Male,76,123,151,Yes,Former,Typical Angina,Medication
+Female,85,179,157,No,Former,Asymptomatic,Angioplasty
+Female,54,138,196,Yes,Current,Atypical Angina,Lifestyle Changes
+Female,52,161,214,Yes,Never,Asymptomatic,Lifestyle Changes
+Female,86,142,153,Yes,Former,Non-anginal Pain,Medication
+Male,34,118,245,No,Former,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Female,77,109,153,Yes,Current,Asymptomatic,Angioplasty
+Female,82,130,262,No,Former,Non-anginal Pain,Lifestyle Changes
+Male,48,195,156,Yes,Never,Typical Angina,Angioplasty
+Male,75,123,191,No,Current,Non-anginal Pain,Angioplasty
+Female,56,98,208,No,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Female,74,196,244,No,Never,Asymptomatic,Lifestyle Changes
+Female,66,129,185,Yes,Current,Typical Angina,Angioplasty
+Female,78,161,178,Yes,Former,Atypical Angina,Lifestyle Changes
+Female,69,110,162,No,Former,Non-anginal Pain,Medication
+Female,59,159,160,No,Never,Typical Angina,Medication
+Male,80,197,189,No,Former,Non-anginal Pain,Angioplasty
+Female,79,106,230,Yes,Never,Non-anginal Pain,Lifestyle Changes
+Female,68,93,185,Yes,Never,Non-anginal Pain,Angioplasty
+Male,80,98,277,Yes,Former,Non-anginal Pain,Lifestyle Changes
+Male,85,189,257,Yes,Never,Asymptomatic,Lifestyle Changes
+Male,86,194,201,No,Former,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Male,52,109,159,No,Current,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,40,101,244,Yes,Current,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,77,141,164,Yes,Never,Non-anginal Pain,Angioplasty
+Female,67,159,207,No,Former,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Female,87,171,159,Yes,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Female,41,107,169,Yes,Current,Non-anginal Pain,Medication
+Female,74,194,244,Yes,Current,Typical Angina,Lifestyle Changes
+Male,60,108,185,Yes,Former,Non-anginal Pain,Lifestyle Changes
+Female,58,106,203,Yes,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Male,76,190,189,Yes,Current,Non-anginal Pain,Lifestyle Changes
+Male,32,126,295,No,Never,Atypical Angina,Medication
+Female,34,119,241,Yes,Never,Non-anginal Pain,Medication
+Male,87,105,203,Yes,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Female,64,143,225,No,Never,Asymptomatic,Medication
+Male,59,103,183,No,Never,Typical Angina,Lifestyle Changes
+Female,31,95,273,No,Former,Non-anginal Pain,Angioplasty
+Male,70,188,156,Yes,Never,Atypical Angina,Lifestyle Changes
+Female,34,102,214,No,Former,Atypical Angina,Angioplasty
+Female,59,183,168,Yes,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Female,47,196,159,Yes,Current,Atypical Angina,Angioplasty
+Female,78,102,283,Yes,Former,Asymptomatic,Medication
+Female,45,90,252,No,Current,Atypical Angina,Lifestyle Changes
+Male,44,92,244,No,Never,Typical Angina,Angioplasty
+Male,81,123,172,No,Never,Asymptomatic,Lifestyle Changes
+Male,38,137,265,No,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Female,49,90,151,No,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Male,56,118,166,Yes,Never,Non-anginal Pain,Medication
+Female,79,186,221,Yes,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Female,83,122,265,Yes,Never,Asymptomatic,Angioplasty
+Male,52,132,155,Yes,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Male,48,144,170,No,Current,Atypical Angina,Medication
+Female,46,101,150,No,Current,Non-anginal Pain,Lifestyle Changes
+Male,33,193,165,Yes,Never,Non-anginal Pain,Lifestyle Changes
+Female,62,126,167,No,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Female,45,149,217,No,Current,Typical Angina,Angioplasty
+Female,55,164,252,Yes,Former,Typical Angina,Medication
+Female,33,181,290,Yes,Former,Typical Angina,Angioplasty
+Female,66,107,263,No,Never,Atypical Angina,Medication
+Male,52,191,175,No,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Male,66,151,177,Yes,Never,Typical Angina,Medication
+Female,85,119,160,Yes,Never,Asymptomatic,Medication
+Female,64,152,213,Yes,Never,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Male,40,95,196,No,Current,Typical Angina,Angioplasty
+Male,67,188,230,Yes,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Female,43,96,185,Yes,Never,Non-anginal Pain,Medication
+Male,45,191,174,No,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Female,49,150,247,No,Never,Atypical Angina,Medication
+Male,50,168,244,No,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,77,119,195,No,Former,Typical Angina,Lifestyle Changes
+Male,37,127,278,No,Never,Non-anginal Pain,Lifestyle Changes
+Female,44,106,221,Yes,Current,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Male,83,160,256,Yes,Former,Asymptomatic,Angioplasty
+Male,42,127,245,No,Current,Asymptomatic,Medication
+Female,88,126,285,No,Current,Non-anginal Pain,Lifestyle Changes
+Male,58,142,272,No,Never,Non-anginal Pain,Angioplasty
+Female,72,173,266,No,Never,Asymptomatic,Medication
+Male,68,136,196,No,Never,Non-anginal Pain,Lifestyle Changes
+Female,60,189,244,Yes,Former,Atypical Angina,Lifestyle Changes
+Male,31,169,153,Yes,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,88,134,182,Yes,Never,Non-anginal Pain,Medication
+Male,62,132,191,Yes,Former,Asymptomatic,Angioplasty
+Female,49,157,202,No,Former,Typical Angina,Angioplasty
+Male,89,117,193,Yes,Never,Non-anginal Pain,Angioplasty
+Female,73,123,202,No,Never,Non-anginal Pain,Medication
+Female,48,110,196,No,Never,Typical Angina,Angioplasty
+Female,42,107,177,No,Never,Non-anginal Pain,Angioplasty
+Male,64,97,245,Yes,Current,Typical Angina,Angioplasty
+Female,67,175,240,No,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Male,78,137,257,Yes,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,68,168,208,Yes,Current,Asymptomatic,Medication
+Male,85,156,189,No,Former,Atypical Angina,Medication
+Female,88,155,217,No,Current,Typical Angina,Angioplasty
+Male,39,147,182,No,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Male,60,103,236,Yes,Never,Asymptomatic,Lifestyle Changes
+Female,49,94,292,No,Current,Atypical Angina,Lifestyle Changes
+Male,60,171,153,Yes,Current,Typical Angina,Angioplasty
+Male,57,149,245,No,Current,Atypical Angina,Angioplasty
+Female,57,127,281,No,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Male,54,149,217,Yes,Former,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Male,80,156,166,Yes,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Male,39,98,168,Yes,Never,Typical Angina,Medication
+Female,43,95,239,Yes,Former,Atypical Angina,Medication
+Male,83,162,282,Yes,Current,Non-anginal Pain,Angioplasty
+Female,83,125,260,Yes,Former,Non-anginal Pain,Medication
+Male,66,114,169,No,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Male,58,137,283,No,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Male,40,164,257,Yes,Never,Asymptomatic,Medication
+Female,52,121,199,No,Never,Non-anginal Pain,Lifestyle Changes
+Male,32,132,199,Yes,Never,Non-anginal Pain,Angioplasty
+Male,47,148,250,No,Current,Typical Angina,Lifestyle Changes
+Female,78,129,201,No,Current,Asymptomatic,Angioplasty
+Male,75,109,194,Yes,Former,Typical Angina,Lifestyle Changes
+Female,60,121,150,Yes,Former,Non-anginal Pain,Medication
+Female,83,120,297,Yes,Never,Typical Angina,Angioplasty
+Male,77,171,286,No,Current,Non-anginal Pain,Angioplasty
+Female,32,174,239,Yes,Former,Non-anginal Pain,Angioplasty
+Male,77,181,299,No,Current,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,48,193,153,Yes,Current,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,71,168,165,No,Never,Atypical Angina,Lifestyle Changes
+Male,44,187,252,No,Never,Atypical Angina,Medication
+Female,32,172,199,Yes,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,36,137,249,No,Current,Non-anginal Pain,Angioplasty
+Female,53,145,276,No,Current,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,55,138,248,Yes,Current,Asymptomatic,Medication
+Female,70,154,178,No,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Male,71,99,157,Yes,Former,Asymptomatic,Angioplasty
+Female,33,96,248,Yes,Never,Typical Angina,Lifestyle Changes
+Male,31,129,271,Yes,Former,Non-anginal Pain,Angioplasty
+Female,54,115,194,Yes,Current,Asymptomatic,Medication
+Male,88,106,185,No,Former,Asymptomatic,Lifestyle Changes
+Male,30,178,178,No,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,40,120,252,No,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,88,198,188,Yes,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,37,195,170,No,Never,Non-anginal Pain,Lifestyle Changes
+Male,74,168,279,No,Current,Typical Angina,Angioplasty
+Female,57,121,187,Yes,Never,Typical Angina,Lifestyle Changes
+Male,61,184,185,Yes,Never,Atypical Angina,Lifestyle Changes
+Male,33,139,229,No,Current,Atypical Angina,Medication
+Male,44,153,257,Yes,Former,Atypical Angina,Lifestyle Changes
+Female,72,167,169,Yes,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Female,58,107,297,Yes,Former,Atypical Angina,Angioplasty
+Male,83,156,191,Yes,Never,Asymptomatic,Angioplasty
+Male,61,193,282,No,Never,Typical Angina,Angioplasty
+Female,77,131,168,Yes,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Male,83,163,227,Yes,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Female,56,136,150,Yes,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Male,49,162,246,Yes,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Female,51,118,205,Yes,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Male,45,162,153,Yes,Never,Asymptomatic,Lifestyle Changes
+Female,53,149,239,Yes,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Male,71,97,177,Yes,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Female,41,93,191,No,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,34,166,215,Yes,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Male,52,147,180,No,Never,Non-anginal Pain,Angioplasty
+Male,45,137,178,Yes,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Female,67,92,222,Yes,Current,Asymptomatic,Lifestyle Changes
+Male,54,181,160,Yes,Current,Atypical Angina,Lifestyle Changes
+Female,46,149,259,Yes,Former,Atypical Angina,Lifestyle Changes
+Male,34,189,214,No,Current,Typical Angina,Medication
+Female,50,115,242,Yes,Former,Typical Angina,Angioplasty
+Female,61,123,227,Yes,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,41,150,275,No,Current,Typical Angina,Medication
+Female,36,189,246,No,Current,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,54,192,224,Yes,Never,Atypical Angina,Medication
+Female,41,101,232,No,Never,Atypical Angina,Medication
+Male,77,116,233,No,Never,Asymptomatic,Lifestyle Changes
+Male,69,105,276,No,Current,Atypical Angina,Lifestyle Changes
+Male,78,197,287,Yes,Former,Atypical Angina,Medication
+Female,62,176,297,Yes,Former,Non-anginal Pain,Lifestyle Changes
+Female,74,174,242,Yes,Former,Asymptomatic,Medication
+Female,48,93,243,No,Former,Asymptomatic,Angioplasty
+Female,71,198,270,Yes,Never,Asymptomatic,Lifestyle Changes
+Male,71,182,230,No,Never,Non-anginal Pain,Lifestyle Changes
+Male,43,141,217,Yes,Current,Atypical Angina,Lifestyle Changes
+Female,69,129,287,Yes,Current,Asymptomatic,Angioplasty
+Male,41,196,156,No,Former,Asymptomatic,Medication
+Male,88,97,283,Yes,Never,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,79,109,269,No,Former,Asymptomatic,Lifestyle Changes
+Male,47,97,226,No,Current,Atypical Angina,Medication
+Female,34,185,292,Yes,Current,Atypical Angina,Angioplasty
+Male,73,113,274,No,Former,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,40,180,181,Yes,Current,Asymptomatic,Lifestyle Changes
+Female,88,195,287,Yes,Former,Asymptomatic,Angioplasty
+Female,62,195,238,No,Never,Asymptomatic,Angioplasty
+Female,39,109,166,Yes,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Male,42,92,213,No,Never,Asymptomatic,Medication
+Female,43,155,175,Yes,Never,Atypical Angina,Lifestyle Changes
+Female,49,193,293,Yes,Current,Atypical Angina,Lifestyle Changes
+Female,79,151,273,Yes,Current,Non-anginal Pain,Medication
+Male,66,130,278,Yes,Current,Non-anginal Pain,Medication
+Female,58,111,159,Yes,Former,Asymptomatic,Medication
+Male,83,184,181,No,Former,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,30,106,270,No,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Male,78,156,258,No,Former,Non-anginal Pain,Lifestyle Changes
+Male,42,184,299,No,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Female,68,141,248,No,Former,Asymptomatic,Angioplasty
+Male,55,171,186,No,Never,Non-anginal Pain,Lifestyle Changes
+Female,62,144,295,Yes,Never,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,62,189,182,Yes,Current,Non-anginal Pain,Medication
+Female,76,199,225,No,Former,Asymptomatic,Angioplasty
+Male,57,198,258,No,Former,Asymptomatic,Medication
+Male,44,193,184,Yes,Never,Non-anginal Pain,Lifestyle Changes
+Female,75,183,155,Yes,Never,Typical Angina,Medication
+Female,33,193,256,Yes,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Male,52,183,227,No,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Female,49,137,154,No,Current,Asymptomatic,Lifestyle Changes
+Female,84,116,249,No,Never,Typical Angina,Medication
+Female,54,97,249,Yes,Never,Atypical Angina,Lifestyle Changes
+Male,79,188,154,Yes,Former,Typical Angina,Medication
+Male,66,150,233,No,Never,Non-anginal Pain,Angioplasty
+Male,48,147,259,No,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Female,56,138,224,Yes,Current,Non-anginal Pain,Lifestyle Changes
+Female,60,145,186,Yes,Never,Typical Angina,Angioplasty
+Female,68,191,203,Yes,Current,Asymptomatic,Angioplasty
+Male,74,140,154,Yes,Never,Non-anginal Pain,Lifestyle Changes
+Female,81,118,217,No,Never,Non-anginal Pain,Lifestyle Changes
+Female,36,144,185,Yes,Current,Typical Angina,Angioplasty
+Female,82,93,235,Yes,Former,Atypical Angina,Medication
+Female,88,95,234,Yes,Current,Atypical Angina,Angioplasty
+Male,68,190,182,No,Current,Asymptomatic,Lifestyle Changes
+Male,39,185,260,No,Current,Asymptomatic,Angioplasty
+Female,71,112,195,Yes,Former,Non-anginal Pain,Medication
+Male,52,147,156,Yes,Never,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Male,36,114,236,Yes,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Female,75,150,187,No,Current,Asymptomatic,Angioplasty
+Female,51,170,246,No,Former,Typical Angina,Medication
+Male,57,184,185,No,Current,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,70,192,261,Yes,Never,Asymptomatic,Angioplasty
+Male,87,91,184,No,Former,Atypical Angina,Angioplasty
+Female,62,162,246,Yes,Never,Atypical Angina,Medication
+Male,63,123,249,Yes,Never,Typical Angina,Lifestyle Changes
+Female,82,115,279,Yes,Former,Non-anginal Pain,Angioplasty
+Male,36,155,170,No,Current,Atypical Angina,Lifestyle Changes
+Male,78,115,227,Yes,Never,Non-anginal Pain,Lifestyle Changes
+Male,71,141,159,No,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,49,155,213,No,Never,Atypical Angina,Lifestyle Changes
+Male,58,170,290,Yes,Never,Non-anginal Pain,Medication
+Male,72,162,292,Yes,Former,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Female,32,182,236,No,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,33,137,289,Yes,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Male,40,169,201,No,Current,Non-anginal Pain,Angioplasty
+Male,51,100,212,Yes,Never,Asymptomatic,Angioplasty
+Female,78,189,263,No,Current,Atypical Angina,Lifestyle Changes
+Female,47,151,264,No,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,50,122,171,No,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Female,44,99,291,No,Never,Atypical Angina,Medication
+Female,83,138,154,Yes,Current,Asymptomatic,Lifestyle Changes
+Male,57,134,299,Yes,Never,Asymptomatic,Medication
+Female,69,133,196,No,Never,Non-anginal Pain,Lifestyle Changes
+Male,34,143,273,No,Current,Typical Angina,Lifestyle Changes
+Male,36,92,173,Yes,Former,Asymptomatic,Angioplasty
+Male,32,92,185,Yes,Current,Non-anginal Pain,Angioplasty
+Female,78,192,223,Yes,Former,Typical Angina,Medication
+Male,39,116,217,Yes,Never,Atypical Angina,Lifestyle Changes
+Male,68,144,256,Yes,Current,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,44,181,233,Yes,Current,Asymptomatic,Angioplasty
+Male,32,129,179,No,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Male,86,146,180,Yes,Former,Asymptomatic,Medication
+Female,38,157,244,Yes,Former,Asymptomatic,Angioplasty
+Male,37,125,203,No,Never,Asymptomatic,Angioplasty
+Male,45,164,181,Yes,Former,Non-anginal Pain,Lifestyle Changes
+Male,83,139,159,Yes,Former,Asymptomatic,Medication
+Female,65,110,271,Yes,Never,Non-anginal Pain,Lifestyle Changes
+Female,88,183,283,Yes,Current,Atypical Angina,Angioplasty
+Female,54,134,182,Yes,Current,Asymptomatic,Medication
+Male,70,147,247,No,Never,Asymptomatic,Angioplasty
+Male,88,133,171,Yes,Current,Typical Angina,Medication
+Female,36,107,248,No,Former,Atypical Angina,Angioplasty
+Male,48,170,184,No,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Male,66,171,214,Yes,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Female,64,189,225,No,Never,Atypical Angina,Lifestyle Changes
+Female,51,191,222,Yes,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Male,86,110,265,No,Never,Asymptomatic,Angioplasty
+Male,64,155,269,No,Never,Typical Angina,Angioplasty
+Male,33,137,153,Yes,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Female,87,101,217,Yes,Current,Typical Angina,Lifestyle Changes
+Female,71,117,279,Yes,Former,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,47,98,214,Yes,Never,Asymptomatic,Medication
+Female,52,141,269,Yes,Former,Asymptomatic,Medication
+Male,64,152,198,No,Current,Typical Angina,Medication
+Female,85,97,175,No,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,70,169,226,No,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,65,118,270,No,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Female,53,196,231,No,Former,Non-anginal Pain,Medication
+Female,55,115,169,No,Never,Atypical Angina,Lifestyle Changes
+Male,63,152,245,No,Current,Asymptomatic,Angioplasty
+Male,84,190,292,Yes,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,55,191,292,Yes,Former,Non-anginal Pain,Lifestyle Changes
+Male,41,106,174,No,Former,Asymptomatic,Angioplasty
+Female,40,180,167,No,Current,Non-anginal Pain,Angioplasty
+Female,34,124,160,Yes,Never,Asymptomatic,Angioplasty
+Male,71,168,259,Yes,Never,Non-anginal Pain,Lifestyle Changes
+Male,67,115,209,Yes,Current,Atypical Angina,Lifestyle Changes
+Female,78,101,161,Yes,Former,Atypical Angina,Medication
+Female,77,169,240,No,Current,Non-anginal Pain,Lifestyle Changes
+Female,58,112,203,Yes,Current,Non-anginal Pain,Lifestyle Changes
+Male,82,162,251,No,Former,Non-anginal Pain,Lifestyle Changes
+Female,47,167,259,No,Current,Asymptomatic,Angioplasty
+Female,54,132,285,No,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,64,119,223,Yes,Current,Asymptomatic,Medication
+Male,73,129,274,Yes,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,60,90,238,No,Never,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,53,195,263,No,Never,Asymptomatic,Lifestyle Changes
+Male,49,150,293,No,Former,Atypical Angina,Medication
+Female,38,168,181,Yes,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,86,154,233,No,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Male,31,126,165,Yes,Never,Asymptomatic,Medication
+Female,84,174,210,No,Current,Atypical Angina,Lifestyle Changes
+Male,68,97,182,No,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Male,39,147,164,No,Former,Non-anginal Pain,Angioplasty
+Female,59,188,259,Yes,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Female,34,159,167,Yes,Never,Asymptomatic,Angioplasty
+Female,70,98,248,No,Never,Asymptomatic,Lifestyle Changes
+Female,45,144,239,Yes,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Male,67,154,182,No,Never,Non-anginal Pain,Medication
+Female,35,179,185,Yes,Former,Typical Angina,Medication
+Male,60,186,210,Yes,Current,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,49,109,181,Yes,Never,Non-anginal Pain,Lifestyle Changes
+Female,60,161,248,No,Former,Non-anginal Pain,Lifestyle Changes
+Female,82,151,250,Yes,Former,Non-anginal Pain,Medication
+Male,81,111,222,Yes,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,54,132,200,No,Current,Typical Angina,Lifestyle Changes
+Female,84,147,217,No,Former,Non-anginal Pain,Medication
+Female,63,96,241,No,Never,Atypical Angina,Angioplasty
+Female,54,111,162,No,Current,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Male,71,176,223,Yes,Former,Asymptomatic,Angioplasty
+Female,35,103,208,Yes,Former,Atypical Angina,Angioplasty
+Male,72,183,295,Yes,Current,Typical Angina,Lifestyle Changes
+Male,34,188,192,Yes,Current,Atypical Angina,Lifestyle Changes
+Male,36,193,243,Yes,Never,Typical Angina,Lifestyle Changes
+Male,39,153,178,No,Never,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Male,55,163,230,Yes,Former,Asymptomatic,Angioplasty
+Male,35,103,172,Yes,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,67,149,189,Yes,Current,Non-anginal Pain,Lifestyle Changes
+Male,73,137,246,No,Current,Asymptomatic,Angioplasty
+Male,32,182,219,No,Former,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Male,54,93,159,Yes,Current,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,85,147,258,No,Current,Non-anginal Pain,Medication
+Female,72,168,268,No,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Male,89,121,267,No,Never,Non-anginal Pain,Lifestyle Changes
+Female,80,98,210,No,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Male,79,192,279,No,Former,Non-anginal Pain,Angioplasty
+Male,56,141,191,No,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Female,74,145,279,No,Former,Non-anginal Pain,Medication
+Male,63,157,238,Yes,Never,Typical Angina,Angioplasty
+Female,54,132,176,Yes,Never,Typical Angina,Angioplasty
+Female,30,106,199,No,Former,Asymptomatic,Medication
+Male,80,179,250,Yes,Former,Typical Angina,Lifestyle Changes
+Male,74,99,220,Yes,Never,Asymptomatic,Angioplasty
+Female,37,151,209,No,Former,Asymptomatic,Lifestyle Changes
+Male,46,108,278,Yes,Never,Atypical Angina,Angioplasty
+Male,71,111,154,No,Former,Non-anginal Pain,Angioplasty
+Male,86,131,185,No,Former,Typical Angina,Lifestyle Changes
+Female,82,147,297,No,Former,Atypical Angina,Angioplasty
+Female,46,99,270,Yes,Never,Typical Angina,Lifestyle Changes
+Male,46,180,253,Yes,Former,Asymptomatic,Medication
+Female,54,144,177,Yes,Never,Typical Angina,Lifestyle Changes
+Female,62,97,157,Yes,Never,Non-anginal Pain,Medication
+Female,88,160,230,No,Former,Asymptomatic,Angioplasty
+Female,42,197,207,No,Former,Asymptomatic,Lifestyle Changes
+Female,84,138,233,Yes,Never,Atypical Angina,Angioplasty
+Male,44,112,160,No,Never,Non-anginal Pain,Lifestyle Changes
+Male,71,184,207,No,Current,Asymptomatic,Medication
+Male,81,95,209,Yes,Never,Non-anginal Pain,Medication
+Female,58,199,201,No,Current,Typical Angina,Lifestyle Changes
+Female,64,142,174,Yes,Current,Non-anginal Pain,Medication
+Male,59,150,266,No,Current,Asymptomatic,Angioplasty
+Female,55,169,190,Yes,Former,Atypical Angina,Angioplasty
+Male,54,129,255,No,Former,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Male,86,181,225,No,Never,Non-anginal Pain,Medication
+Male,58,179,181,Yes,Current,Non-anginal Pain,Angioplasty
+Female,58,108,255,Yes,Former,Asymptomatic,Lifestyle Changes
+Female,66,122,174,Yes,Former,Non-anginal Pain,Medication
+Male,66,166,212,Yes,Former,Typical Angina,Angioplasty
+Male,68,194,241,No,Former,Asymptomatic,Medication
+Male,64,96,243,No,Former,Atypical Angina,Lifestyle Changes
+Male,48,123,205,Yes,Current,Asymptomatic,Angioplasty
+Female,88,189,272,No,Current,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,35,172,294,Yes,Current,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Male,51,113,182,Yes,Current,Typical Angina,Medication
+Male,40,143,269,No,Never,Typical Angina,Lifestyle Changes
+Female,36,150,287,No,Current,Typical Angina,Angioplasty
+Female,50,174,209,Yes,Former,Atypical Angina,Lifestyle Changes
+Male,58,90,203,Yes,Current,Non-anginal Pain,Angioplasty
+Male,54,106,278,Yes,Never,Typical Angina,Medication
+Male,30,159,266,No,Former,Typical Angina,Angioplasty
+Female,42,122,174,No,Current,Asymptomatic,Lifestyle Changes
+Female,74,168,245,No,Current,Atypical Angina,Lifestyle Changes
+Female,49,173,244,No,Current,Atypical Angina,Medication
+Male,75,123,167,Yes,Former,Non-anginal Pain,Lifestyle Changes
+Male,68,107,232,Yes,Former,Atypical Angina,Angioplasty
+Female,77,157,207,Yes,Never,Asymptomatic,Medication
+Female,54,161,163,Yes,Former,Asymptomatic,Angioplasty
+Male,85,155,230,Yes,Former,Non-anginal Pain,Lifestyle Changes
+Female,89,193,237,Yes,Current,Asymptomatic,Medication
+Female,46,170,246,No,Former,Typical Angina,Angioplasty
+Male,54,137,239,No,Current,Typical Angina,Lifestyle Changes
+Female,74,123,159,Yes,Current,Asymptomatic,Lifestyle Changes
+Male,76,154,165,Yes,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Male,87,158,174,No,Never,Atypical Angina,Lifestyle Changes
+Male,39,120,251,No,Never,Non-anginal Pain,Angioplasty
+Male,68,160,288,No,Former,Atypical Angina,Medication
+Male,51,198,285,No,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Male,55,154,283,Yes,Current,Asymptomatic,Lifestyle Changes
+Male,56,131,285,Yes,Current,Typical Angina,Lifestyle Changes
+Female,49,152,182,Yes,Former,Atypical Angina,Lifestyle Changes
+Male,43,120,216,Yes,Never,Non-anginal Pain,Angioplasty
+Male,75,146,283,Yes,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Female,77,113,211,No,Current,Non-anginal Pain,Angioplasty
+Female,58,159,230,Yes,Former,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,71,153,154,No,Never,Atypical Angina,Medication
+Male,86,166,177,Yes,Former,Atypical Angina,Angioplasty
+Female,48,114,251,Yes,Never,Asymptomatic,Angioplasty
+Male,62,164,229,Yes,Current,Atypical Angina,Medication
+Male,52,107,200,Yes,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Male,44,193,202,Yes,Former,Typical Angina,Lifestyle Changes
+Male,58,166,191,No,Current,Atypical Angina,Medication
+Female,87,197,267,No,Never,Asymptomatic,Lifestyle Changes
+Female,66,120,250,No,Current,Non-anginal Pain,Lifestyle Changes
+Male,41,98,193,Yes,Former,Asymptomatic,Medication
+Male,39,173,227,Yes,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Male,45,156,287,No,Former,Typical Angina,Lifestyle Changes
+Female,88,182,191,Yes,Never,Atypical Angina,Medication
+Male,69,92,209,Yes,Never,Atypical Angina,Angioplasty
+Male,69,198,158,No,Never,Asymptomatic,Angioplasty
+Female,73,136,297,Yes,Never,Non-anginal Pain,Angioplasty
+Female,41,144,171,No,Never,Atypical Angina,Medication
+Male,83,142,242,Yes,Current,Non-anginal Pain,Angioplasty
+Female,46,134,185,No,Never,Asymptomatic,Lifestyle Changes
+Female,45,182,227,Yes,Never,Non-anginal Pain,Angioplasty
+Male,55,124,185,Yes,Current,Asymptomatic,Angioplasty
+Female,72,149,161,No,Never,Typical Angina,Lifestyle Changes
+Male,66,179,150,Yes,Former,Non-anginal Pain,Angioplasty
+Female,62,135,151,Yes,Never,Non-anginal Pain,Lifestyle Changes
+Male,65,190,162,No,Never,Typical Angina,Angioplasty
+Male,58,150,227,Yes,Former,Non-anginal Pain,Lifestyle Changes
+Male,69,141,210,No,Former,Typical Angina,Angioplasty
+Female,33,150,150,Yes,Former,Atypical Angina,Lifestyle Changes
+Male,78,92,210,Yes,Former,Asymptomatic,Medication
+Female,70,147,218,Yes,Never,Typical Angina,Lifestyle Changes
+Male,37,155,286,Yes,Former,Non-anginal Pain,Angioplasty
+Male,31,192,283,No,Former,Typical Angina,Angioplasty
+Female,84,163,181,Yes,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Male,69,120,194,No,Former,Atypical Angina,Lifestyle Changes
+Male,41,98,193,Yes,Former,Typical Angina,Medication
+Female,50,154,186,Yes,Current,Atypical Angina,Lifestyle Changes
+Male,61,142,254,Yes,Current,Asymptomatic,Lifestyle Changes
+Male,55,194,225,Yes,Never,Non-anginal Pain,Medication
+Male,36,92,240,No,Current,Non-anginal Pain,Lifestyle Changes
+Male,67,178,297,No,Never,Atypical Angina,Medication
+Female,76,161,154,No,Current,Asymptomatic,Medication
+Female,86,154,185,No,Current,Typical Angina,Lifestyle Changes
+Male,61,173,239,Yes,Never,Typical Angina,Lifestyle Changes
+Female,46,157,233,No,Current,Non-anginal Pain,Angioplasty
+Male,58,168,268,No,Never,Atypical Angina,Angioplasty
+Female,33,110,261,Yes,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Male,86,199,156,Yes,Former,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Male,32,132,190,Yes,Current,Asymptomatic,Lifestyle Changes
+Male,45,181,212,Yes,Never,Asymptomatic,Medication
+Male,76,143,197,No,Current,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Male,50,93,268,No,Never,Typical Angina,Lifestyle Changes
+Male,43,146,283,Yes,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,53,198,258,Yes,Former,Asymptomatic,Medication
+Male,71,193,185,Yes,Former,Typical Angina,Lifestyle Changes
+Female,65,126,246,No,Never,Typical Angina,Medication
+Male,64,141,186,No,Current,Non-anginal Pain,Lifestyle Changes
+Female,84,138,224,Yes,Never,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,38,129,222,Yes,Never,Typical Angina,Angioplasty
+Female,82,107,239,No,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Male,55,121,259,Yes,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Male,59,157,294,Yes,Current,Asymptomatic,Angioplasty
+Female,30,188,177,No,Current,Atypical Angina,Angioplasty
+Male,56,147,267,Yes,Never,Non-anginal Pain,Lifestyle Changes
+Female,38,98,181,No,Never,Typical Angina,Lifestyle Changes
+Male,64,186,259,Yes,Former,Non-anginal Pain,Medication
+Female,74,106,233,Yes,Never,Atypical Angina,Medication
+Female,41,101,212,No,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Male,81,94,265,No,Former,Asymptomatic,Angioplasty
+Female,82,151,178,Yes,Current,Non-anginal Pain,Medication
+Male,57,149,261,No,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,57,143,283,Yes,Former,Non-anginal Pain,Angioplasty
+Female,66,153,235,Yes,Current,Non-anginal Pain,Lifestyle Changes
+Male,61,106,203,No,Former,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Male,51,109,223,Yes,Former,Non-anginal Pain,Lifestyle Changes
+Male,49,147,177,Yes,Never,Typical Angina,Medication
+Female,85,97,199,No,Current,Typical Angina,Medication
+Male,63,144,258,No,Former,Asymptomatic,Angioplasty
+Female,70,158,181,Yes,Former,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,45,95,239,No,Current,Typical Angina,Lifestyle Changes
+Male,88,186,261,No,Former,Asymptomatic,Angioplasty
+Male,64,125,165,No,Former,Non-anginal Pain,Medication
+Female,74,159,213,No,Former,Atypical Angina,Medication
+Female,85,144,195,Yes,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Male,56,137,191,Yes,Current,Atypical Angina,Lifestyle Changes
+Male,77,107,259,Yes,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Male,69,134,197,No,Current,Typical Angina,Lifestyle Changes
+Male,39,125,263,No,Never,Atypical Angina,Lifestyle Changes
+Male,53,189,268,No,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Female,75,167,225,No,Current,Typical Angina,Angioplasty
+Female,71,194,173,No,Former,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Female,77,159,230,No,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,55,132,269,No,Never,Typical Angina,Medication
+Male,73,108,206,Yes,Current,Atypical Angina,Medication
+Male,67,101,199,Yes,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Male,39,171,235,No,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,54,96,172,No,Current,Typical Angina,Medication
+Female,76,122,195,No,Former,Non-anginal Pain,Lifestyle Changes
+Male,37,97,203,Yes,Former,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Male,52,112,226,Yes,Never,Atypical Angina,Angioplasty
+Female,44,141,282,No,Never,Typical Angina,Angioplasty
+Female,41,157,170,No,Never,Asymptomatic,Angioplasty
+Male,36,96,251,Yes,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Male,80,164,154,Yes,Current,Typical Angina,Lifestyle Changes
+Female,67,194,182,Yes,Never,Asymptomatic,Lifestyle Changes
+Male,49,170,292,Yes,Current,Non-anginal Pain,Medication
+Male,66,175,278,No,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Male,75,94,209,Yes,Never,Non-anginal Pain,Lifestyle Changes
+Female,36,127,229,Yes,Former,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,49,125,236,No,Never,Asymptomatic,Medication
+Female,74,138,268,Yes,Never,Atypical Angina,Medication
+Female,54,140,184,Yes,Former,Asymptomatic,Medication
+Female,40,162,275,Yes,Current,Non-anginal Pain,Angioplasty
+Female,44,185,187,No,Never,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,69,125,164,Yes,Former,Non-anginal Pain,Medication
+Male,63,93,278,No,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Male,50,99,185,No,Former,Asymptomatic,Angioplasty
+Male,83,139,278,Yes,Current,Atypical Angina,Angioplasty
+Male,32,188,297,Yes,Current,Typical Angina,Medication
+Male,76,132,212,Yes,Former,Typical Angina,Medication
+Male,77,151,257,Yes,Former,Asymptomatic,Lifestyle Changes
+Male,55,181,263,No,Former,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,47,181,297,Yes,Current,Atypical Angina,Medication
+Female,81,143,252,Yes,Never,Non-anginal Pain,Lifestyle Changes
+Male,37,179,253,Yes,Current,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Male,58,95,201,No,Former,Asymptomatic,Medication
+Female,86,119,241,Yes,Former,Non-anginal Pain,Lifestyle Changes
+Male,64,132,283,Yes,Current,Non-anginal Pain,Lifestyle Changes
+Male,79,91,282,No,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,71,175,253,No,Current,Asymptomatic,Lifestyle Changes
+Male,60,168,278,Yes,Former,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,48,137,250,Yes,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Male,84,176,282,Yes,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Female,70,118,263,Yes,Former,Asymptomatic,Angioplasty
+Female,88,160,288,Yes,Current,Typical Angina,Lifestyle Changes
+Female,45,106,170,No,Never,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Male,66,91,194,No,Current,Atypical Angina,Medication
+Female,83,98,246,Yes,Former,Typical Angina,Angioplasty
+Male,44,182,174,Yes,Current,Typical Angina,Angioplasty
+Male,64,139,294,No,Never,Asymptomatic,Lifestyle Changes
+Male,39,115,209,Yes,Current,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Male,49,199,243,Yes,Current,Non-anginal Pain,Lifestyle Changes
+Female,40,110,292,Yes,Former,Atypical Angina,Angioplasty
+Female,34,169,219,Yes,Former,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Male,88,122,172,Yes,Former,Typical Angina,Medication
+Male,50,155,180,No,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Female,32,107,179,Yes,Never,Asymptomatic,Angioplasty
+Male,49,118,244,Yes,Former,Atypical Angina,Medication
+Female,71,167,170,Yes,Former,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Male,84,101,185,No,Never,Non-anginal Pain,Medication
+Male,50,198,277,No,Never,Non-anginal Pain,Medication
+Female,46,111,270,No,Never,Non-anginal Pain,Angioplasty
+Male,81,166,299,No,Never,Non-anginal Pain,Medication
+Female,75,101,239,Yes,Former,Non-anginal Pain,Lifestyle Changes
+Male,71,168,183,No,Never,Typical Angina,Angioplasty
+Male,47,163,167,Yes,Former,Typical Angina,Lifestyle Changes
+Male,85,180,161,Yes,Current,Asymptomatic,Medication
+Female,78,189,203,No,Current,Atypical Angina,Lifestyle Changes
+Male,41,190,297,No,Never,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Male,37,137,246,No,Current,Typical Angina,Medication
+Male,79,132,161,No,Current,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Male,58,175,171,No,Current,Asymptomatic,Lifestyle Changes
+Female,36,164,150,Yes,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Female,74,129,213,No,Never,Asymptomatic,Medication
+Male,86,124,235,No,Current,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,64,181,267,No,Former,Atypical Angina,Lifestyle Changes
+Male,50,147,286,Yes,Current,Atypical Angina,Lifestyle Changes
+Male,50,173,159,No,Never,Atypical Angina,Lifestyle Changes
+Male,35,106,162,Yes,Never,Typical Angina,Medication
+Female,89,106,180,No,Never,Typical Angina,Lifestyle Changes
+Female,74,197,172,No,Current,Asymptomatic,Medication
+Female,46,149,276,Yes,Former,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Female,58,103,267,No,Never,Atypical Angina,Lifestyle Changes
+Female,63,107,193,Yes,Never,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Female,33,180,247,Yes,Current,Typical Angina,Angioplasty
+Female,41,156,199,Yes,Former,Typical Angina,Coronary Artery Bypass Graft (CABG)
+Female,73,188,206,No,Current,Non-anginal Pain,Angioplasty
+Female,49,176,280,No,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Male,36,111,174,No,Former,Non-anginal Pain,Medication
+Female,77,151,239,Yes,Former,Asymptomatic,Coronary Artery Bypass Graft (CABG)
+Female,46,190,242,No,Never,Typical Angina,Medication
+Female,70,167,207,Yes,Former,Typical Angina,Medication
+Female,81,94,283,No,Former,Non-anginal Pain,Lifestyle Changes
+Female,70,148,233,Yes,Current,Atypical Angina,Medication
+Female,37,138,265,Yes,Never,Non-anginal Pain,Angioplasty
+Female,85,168,208,Yes,Never,Asymptomatic,Lifestyle Changes
+Female,72,194,181,No,Never,Non-anginal Pain,Lifestyle Changes
+Female,77,90,276,Yes,Never,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Female,77,198,268,Yes,Never,Asymptomatic,Medication
+Female,51,107,217,Yes,Former,Non-anginal Pain,Medication
+Male,42,125,193,Yes,Current,Typical Angina,Angioplasty
+Male,80,186,267,Yes,Never,Atypical Angina,Coronary Artery Bypass Graft (CABG)
+Female,64,108,174,Yes,Current,Non-anginal Pain,Coronary Artery Bypass Graft (CABG)
+Female,84,123,195,No,Current,Asymptomatic,Lifestyle Changes
+Male,61,155,197,No,Former,Atypical Angina,Lifestyle Changes
