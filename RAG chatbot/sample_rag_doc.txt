@@ -1,0 +1,122 @@
+5 days ago
+History
+.devcontainer
+Added Dev Container Folder
+last year
+ATM-Simultaneous-Python-Project-master
+added my new project
+last year
+Calculator using javascript
+added my project
+last year
+DiwaliSalesAnalysis
+Add files via upload
+last week
+Kaggle Notebooks
+Adding New Notebooks and Dataset
+last week
+NumberGuessingGame
+add old file
+last year
+Response Bot
+new projects added
+last year
+Tic-Tac-Toe-Python
+Feat: added tic-tac-toe written in python
+last year
+YouTube-Scrapper
+Youtube Scrapper
+last year
+financial_qa_chatbot
+financial query assistant project
+last week
+review_scrapper
+Review Scrapper Added
+last year
+CODE_OF_CONDUCT.md
+Rename CODE_OF_CONDUCT to CODE_OF_CONDUCT.md
+last year
+CONTRIBUTING.md
+Update CONTRIBUTING.md
+last year
+FirstWebsite.html
+Create FirstWebsite.html
+last year
+Fraud.ipynb
+Add files via upload
+5 days ago
+README.md
+Update README.md
+last year
+SVM on digits dataset.ipynb
+Added SVM model on digits dataset
+last year
+SpaceShip Competition.ipynb
+Added Spaceship Competition notebook
+last year
+TitanicCompetition.ipynb
+Titanic Competition notebook
+last year
+experiment.txt
+Update experiment.txt
+last year
+reddit-scraper.py
+Create reddit-scraper.py
+last week
+Repository files navigation
+README
+Code of conduct
+What is Hacktoberfest?
+Hacktoberfest is more than just an event; it's a journey into the heart of the open-source community. This annual celebration invites developers to enhance their skills, collaborate with others, and make meaningful contributions to the projects they care about.At its core, Hacktoberfest is about much more than writing lines of code. It's a movement that fosters an ethos of learning and sharing. It invites you to dive into the intricacies of software development, collaborate with diverse teams, and learn from the collective wisdom of the open-source community. This annual celebration is a tapestry of ideas interwoven with the threads of collaboration, mentorship, and personal growth.
+
+Why Contribute Here?
+Beginner-Friendly: Our projects are designed with beginners in mind. Whether you're taking your first steps into coding or you're looking to expand your skills, you'll find a supportive environment here.
+
+Gateway to Open Source: Hacktoberfest serves as a gateway to the world of open source. By contributing here, you'll learn the essentials of open-source collaboration, version control systems, and best practices, setting the stage for your future contributions.
+
+How to Contribute?
+To contribute to this project, please follow the guidelines outlined in our Contributing Guidelines.
+
+Code of Conduct
+Please make sure to read and adhere to our Code of Conduct before contributing. We strive to maintain a friendly and inclusive community for everyone.
+
+Our Contributors
+
+About
+Welcome! This is a repository for adding your python projects, data analysis/data science projects or jupyter/kaggle notebooks.
+
+Topics
+python opencv data-science machine-learning tensorflow numpy scikit-learn keras jupyter-notebook pandas data-analysis first-timers tableau beginner-friendly hacktoberfest hacktoberfest-starter hacktoberfest-accepted hacktoberfest2024 hacktoberfest2024-accepted
+Resources
+ Readme
+Code of conduct
+ Code of conduct
+ Activity
+Stars
+ 5 stars
+Watchers
+ 1 watching
+Forks
+ 12 forks
+Report repository
+Releases
+No releases published
+Packages
+No packages published
+Contributors
+12
+@aarushiksk
+@stanleyedward
+@Vaibhav832
+@isaksham2003
+@mayankanand2701
+@aameerk
+@rudra016
+@Zhreyu
+@Rishabh-git10
+@Athena-2003
+@DebarjunChakraborty
+@Sarthak1970
+Languages
+Jupyter Notebook
+98.7%
