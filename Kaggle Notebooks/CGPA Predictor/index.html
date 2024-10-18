@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cgpa Predictor</title>
+    <script type="text/javascript" src="script.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <style>
+        body {
+            background: linear-gradient(135deg, #74ebd5, #ACB6E5);
+            min-height: 100vh;
+            font-family: 'Arial', sans-serif;
+        }
+    </style>
+</head>
+
+<body>
+    <center>
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="">
+                    <div class="card shadow-lg rounded-lg">
+                        <div class="card-header text-center">
+                            <h1 class="text-white">Cgpa Predictor</h1>
+                        </div>
+
+                        <div class="card-body">
+                            <br>
+                            <form>
+                                <div class="form-group">
+                                    <label for="a">First Semester Average CGPA :</label>
+                                    <div class="input-group">
+                                        <input type="text" class="form-control" name="a" id="a" required>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label for="b">Second Semester Average CGPA :</label>
+                                    <div class="input-group">
+                                        <input type="text" class="form-control" name="b" id="b" required>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label for="c">Third Semester Average CGPA :</label>
+                                    <div class="input-group">
+                                        <input type="text" class="form-control" name="c" id="c" required>
+                                    </div>
+                                </div>
+                                <div class="form-group text-center">
+                                    <button class="btn btn-success btn-lg" onclick="predict(event)" type="submit">
+                                        Predict
+                                    </button>
+                                </div>
+                            </form>
+                            <h1 id="output" class="text-center mt-2"></h1>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </center>
+
+
+</body>
+
+</html>
