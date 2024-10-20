@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Admission Predictor</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+</head>
+
+<body>
+  <div class="container mt-5">
+    <h1>Admission Predictor</h1>
+    <form id="linearRegressionForm">
+      <div class="form-group">
+        <label for="greScore">GRE Score (out of 340):</label>
+        <input type="number" class="form-control" id="greScore" min="260" max="340" step="1">
+      </div>
+      <div class="form-group">
+        <label for="toeflScore">TOEFL Score (out of 120):</label>
+        <input type="number" class="form-control" id="toeflScore" min="90" max="120" step="1">
+      </div>
+      <div class="form-group">
+        <label for="universityRating">University Rating (out of 5):</label>
+        <input type="number" class="form-control" id="universityRating" min="1" max="5" step="1">
+      </div>
+      <div class="form-group">
+        <label for="sop">Statement of Purpose (SOP) (out of 5):</label>
+        <input type="number" class="form-control" id="sop" min="1" max="5" step="0.1">
+      </div>
+      <div class="form-group">
+        <label for="lor">Letter of Recommendation (LOR) Strength (out of 5):</label>
+        <input type="number" class="form-control" id="lor" min="1" max="5" step="0.1">
+      </div>
+      <div class="form-group">
+        <label for="cgpa">Undergraduate GPA (out of 10):</label>
+        <input type="number" class="form-control" id="cgpa" min="6" max="10" step="0.01">
+      </div>
+      <div class="form-group">
+        <label for="research">Research Experience (0 or 1):</label>
+        <input type="number" class="form-control" id="research" min="0" max="1" step="1">
+      </div>
+      <button type="button" class="btn btn-primary" onclick="predict()">Predict</button>
+    </form>
+    <div class="mt-4" id="output"></div>
+  </div>
+
+  <div class="modal fade" id="resultModal" tabindex="-1" role="dialog" aria-labelledby="resultModalLabel"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="resultModalLabel">Predicted Chance of Admit</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h2 class="text-center" id="predictedChance"></h2>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <script>
+    function linearRegression(input, weight, bias) {
+      if (input.length !== weight.length) {
+        throw new Error('Input and weight vectors must have the same length');
+      }
+
+      let dotProduct = 0;
+      for (let i = 0; i < input.length; i++) {
+        dotProduct += input[i] * weight[i];
+      }
+
+      const predictedOutput = dotProduct + bias;
+      return predictedOutput*100.0;
+    }
+
+    function predict() {
+      console.log("in predict");
+      // Fetch input values from the form
+      const greScore = parseFloat(document.getElementById('greScore').value);
+      const toeflScore = parseFloat(document.getElementById('toeflScore').value);
+      const universityRating = parseFloat(document.getElementById('universityRating').value);
+      const sop = parseFloat(document.getElementById('sop').value);
+      const lor = parseFloat(document.getElementById('lor').value);
+      const cgpa = parseFloat(document.getElementById('cgpa').value);
+      const research = parseInt(document.getElementById('research').value);
+
+      const inputFeatures = [greScore, toeflScore, universityRating, sop, lor, cgpa, research];
+      const weights = [ 0.0017,  0.0029,  0.0059, -0.0033,  0.0224,  0.1191,  0.0248];
+      const bias = -1.2470;
+
+      const predictedChanceOfAdmit = linearRegression(inputFeatures, weights, bias);
+
+      const outputElement = document.getElementById('output');
+      outputElement.innerHTML = `<p>Predicted Chance of Admit: ${predictedChanceOfAdmit.toFixed(2)}</p>`;
+
+      predictedChanceOfAdmit.textContent = `${predictedChanceOfAdmit.toFixed(2)}`;
+      document.getElementById("predictedChance").innerText=`${predictedChanceOfAdmit.toFixed(2)}`;
+
+      $('#resultModal').modal('show');
+    }
+  </script>
