@@ -1,0 +1,9 @@
+chromadb
+openai
+langchain
+langchain-openai
+datasets
+open-clip-torch
+langchain_community
+llama-cpp-python
+ipython
